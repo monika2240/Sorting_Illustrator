@@ -37,7 +37,7 @@
   <img width="960" alt="Insertion_Sort" src="https://github.com/monika2240/Sorting_Illustrator/assets/153438385/948dca2d-572e-4f45-93c5-22dd9a966ff7">
 
 ### 5. Quick Sort
-  <img width="956" alt="https://github.com/monika2240/Sorting_Illustrator/assets/153438385/22882278-6509-4c77-ade3-fb7565a93e00">
+  <img width="956"  alt="Quick_Sort" src="https://github.com/monika2240/Sorting_Illustrator/assets/153438385/22882278-6509-4c77-ade3-fb7565a93e00">
 
 ### 6. Merge Sort
   <img width="960" alt="Merge_Sort" src="https://github.com/monika2240/Sorting_Illustrator/assets/153438385/136ab84a-cd58-44fb-a0b7-caa558f25a24">
